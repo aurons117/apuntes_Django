@@ -5,3 +5,5 @@ Mi nombre es Ivan Alexis Carbajal Sandin, soy de México y estoy iniciando en el
 Soy ingeniero mecatrónico, estudié un poco algunos lenguajes y ahora quiero dedicarme a ello.
 
 Actualmente estoy tomando un par de cursos, tanto presenciales como en línea. Siendo python, django, sql server y c++ los lenguajes que más conozco.
+
+Usaré este git para almacenar links importantes de Django
