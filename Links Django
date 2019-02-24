@@ -1,0 +1,9 @@
+
+DataBases y configurarlos en Django como engines
+https://docs.djangoproject.com/en/2.0/ref/databases/
+
+Modelos (Definir tablas de las bases de datos)
+https://docs.djangoproject.com/en/2.0/ref/models/fields/#field-types
+
+Templates Tags
+https://docs.djangoproject.com/en/2.0/ref/templates/builtins/#url
